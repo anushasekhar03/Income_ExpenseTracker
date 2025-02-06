@@ -31,5 +31,5 @@ This is a **Spring Boot** application designed to help users track their income 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Income-Expense-Tracker.git
+git clone https://github.com/anushasekhar03/Income-Expense-Tracker.git
 cd Income-Expense-Tracker

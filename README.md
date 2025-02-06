@@ -34,8 +34,13 @@ This is a **Spring Boot** application designed to help users track their income 
 git clone https://github.com/anushasekhar03/Income-Expense-Tracker.git
 cd Income-Expense-Tracker
 
-### Project Structure
-Income-Expense-Tracker/
+# Income and Expense Tracker - Project Structure
+
+
+This is a Spring Boot application that helps track **income** and **expenses**. The project is structured in a standard way, following the **layered architecture** pattern, making it easy to maintain and scale. Below is an explanation of the directory structure and the role of each folder and file.
+
+## Project Structure
+
 ├── src/
 │   ├── main/
 │   │   ├── java/

@@ -56,3 +56,6 @@ This is a Spring Boot application that helps track **income** and **expenses**. 
 │   │       ├── application.properties            # Application Configuration
 │   ├── pom.xml                                 # Project Dependencies
 
+
+
+http://localhost:8080/swagger-ui.html

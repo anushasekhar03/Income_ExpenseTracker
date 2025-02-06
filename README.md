@@ -33,3 +33,21 @@ This is a **Spring Boot** application designed to help users track their income 
 ```bash
 git clone https://github.com/anushasekhar03/Income-Expense-Tracker.git
 cd Income-Expense-Tracker
+
+### Project Structure
+Income-Expense-Tracker/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   ├── example/
+│   │   │   │   │   ├── Income_ExpenseTracker/
+│   │   │   │   │   │   ├── controller/          # API Controllers
+│   │   │   │   │   │   ├── service/             # Service Layer
+│   │   │   │   │   │   ├── repository/          # Repository Layer
+│   │   │   │   │   │   ├── Entity/              # Entities
+│   │   │   │   │   │   ├── DTO/                 # Data Transfer Objects
+│   │   └── resources/
+│   │       ├── application.properties            # Application Configuration
+│   ├── pom.xml                                 # Project Dependencies
+
